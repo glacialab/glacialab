@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:4fc3f7&height=200&section=header&text=GlaciaLab&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Brown%20Dust%202%20%7C%20Guides%20%E2%80%A2%20Tools%20%E2%80%A2%20Community&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/glacialab/glacialab/main/assets/banner.png" width="100%"/>
 
 <!-- PROFILE PICTURE PLACEHOLDER -->
 <!-- Replace the src below with your actual profile picture URL -->
