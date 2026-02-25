@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://raw.githubusercontent.com/glacialab/glacialab/main/assets/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/glacialab/glacialab/main/assets/glacialab-banner.png" width="100%"/>
 
 <!-- PROFILE PICTURE PLACEHOLDER -->
 <!-- Replace the src below with your actual profile picture URL -->
