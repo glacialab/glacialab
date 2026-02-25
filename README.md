@@ -5,7 +5,7 @@
 
 <!-- PROFILE PICTURE PLACEHOLDER -->
 <!-- Replace the src below with your actual profile picture URL -->
-<img src="https://via.placeholder.com/150/0d1b2a/4fc3f7?text=GL" width="150" style="border-radius: 50%; border: 3px solid #4fc3f7;" alt="GlaciaLab"/>
+<img src="https://avatars.githubusercontent.com/u/263887620?v=4" width="150" style="border-radius: 100%; border: 3px solid #4fc3f7;" alt="GlaciaLab"/>
 
 <br/>
 
