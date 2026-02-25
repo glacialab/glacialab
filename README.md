@@ -58,7 +58,7 @@ Whether you're a newcomer stepping into the world of BD2 for the first time or a
 
 <!-- BANNER — upload your banner image to assets/glacialab-banner.png in your repo -->
 <div style="width:100%;height:300px;overflow:hidden;">
-  <img src="https://raw.githubusercontent.com/glacialab/glacialab/main/assets/glacialab-banner.png" style="width:100%; height:300px; object-fit:cover;"/>
+  <img src="https://raw.githubusercontent.com/glacialab/glacialab/main/assets/glacialab-banner-better.png" style="width:100%; object-fit:cover;"/>
 </div>
 
 <br/>
@@ -251,9 +251,6 @@ Whether you're a newcomer stepping into the world of BD2 for the first time or a
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=glacialab&show_icons=true&theme=tokyonight&bg_color=0d1b2a&title_color=4fc3f7&icon_color=4fc3f7&text_color=ffffff&border_color=1a3a5c&border_radius=10" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glacialab&layout=compact&theme=tokyonight&bg_color=0d1b2a&title_color=4fc3f7&text_color=ffffff&border_color=1a3a5c&border_radius=10" width="42%"/>
 
 <br/><br/>
 
